@@ -26,5 +26,5 @@ latest_posts:
 
 Hi! I am a Research Assistant at University of Trento, where I obtained my Master Degree in Artificial Intelligence Systems in July 2025.
 I am currently supervised by Professor Raffaella Bernardi at UniBZ.  
-I am interested mostly in evaluating and improving LLMs' agentic capabilities, and understanding how performing actions in controlled environments can affect their social and reasoning capabilities.   
+I am interested mostly in evaluating and improving LLMs' agentic capabilities, and understanding how performing actions in controlled environments can affect their social and reasoning capabilities.  
 I am also interested in the role language feedback in learning, and how we can develop effective feedback signals for increasing sample efficiency.
