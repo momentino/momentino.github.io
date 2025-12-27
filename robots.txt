@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://momentino.github.io//sitemap.xml
+Sitemap: https://momentino.github.io/sitemap.xml
